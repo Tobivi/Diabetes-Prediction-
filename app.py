@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import pickle
-
+import sklearn
 pickle_in = open('logreg.pkl', 'rb')
 classifier = pickle.load(pickle_in)
 
