@@ -4,3 +4,4 @@ numpy
 matplotlib
 seaborn
 pickle4
+scikit-learn
